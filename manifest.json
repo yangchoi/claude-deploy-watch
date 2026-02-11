@@ -1,0 +1,10 @@
+{
+  "name": "deploy-watch",
+  "version": "1.0.0",
+  "description": "Monitor Vercel/ECS deployments and notify when complete",
+  "author": "yangchoi",
+  "repository": "https://github.com/yangchoi/claude-deploy-watch",
+  "commands": [
+    "commands/deploy-watch.md"
+  ]
+}
